@@ -1,4 +1,4 @@
-<a href="https://tracerrecart.com"><img src="./assets/header.jpg" alt="tracer · TRACER RECART · Tools. Data. Automation." width="100%" /></a>
+<a href="https://tracerrecart.com"><img src="./assets/header.gif" alt="tracer · TRACER RECART · Tools. Data. Automation." width="100%" /></a>
 
 ### Full-stack developer. Independent builder.
 全栈开发者，专注实用工具、数据应用与自动化。
