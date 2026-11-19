@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm tracer 👋
 
-<!--
-**tracerll/tracerll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building practical tools and automation.
 
-Here are some ideas to get you started:
+全栈开发者，专注实用工具、数据应用与自动化。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore TRACER RECART](https://tracerrecart.com)
+
+### Selected work
+
+- **MGSPW DATABASE** · 游戏资料查询数据库  
+  [Visit website](https://mgspw.tracerrecart.com)
+
+### Tech stack
+
+Python · TypeScript · Java · React · Next.js  
+FastAPI · PostgreSQL · Docker · Cloudflare
+
+### What I build
+
+Useful web tools, searchable databases, and automation
+that make everyday tasks easier.
