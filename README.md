@@ -45,7 +45,7 @@ I build focused web tools and searchable databases under **TRACER RECART**, with
 
 ### Tech stack / 技术栈
 
-<img src="./assets/stack.svg" alt="Python · TypeScript · Java · React · Next.js · FastAPI · PostgreSQL · Docker · Cloudflare" width="100%" />
+<img src="./assets/stack.svg" alt="Python · Java · JavaScript · TypeScript · Node.js · React · Next.js · FastAPI · Flask · PostgreSQL · MySQL · Docker · Cloudflare · Git · GitHub · Linux · Jenkins · Bash" width="648" />
 
 ### GitHub activity / 公开活动
 
